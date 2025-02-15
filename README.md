@@ -40,7 +40,7 @@ This repository contains a collection of Numerical Analysis implementations usin
 ## **How to Use**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Numerical-Analysis.git
+   git clone https://github.com/miraydicle/Numerical-Analysis.git
    cd Numerical-Analysis
    ```
 2. **Open MATLAB and Run the Desired Script**
@@ -51,8 +51,8 @@ This repository contains a collection of Numerical Analysis implementations usin
      ```
    - Example: Running Runge-Kutta solver
      ```matlab
-     cd differential_equations
-     run script6.m
+     cd circuit_analysis
+     run script.m
      ```
 ## **License**
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
